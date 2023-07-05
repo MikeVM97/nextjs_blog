@@ -30,13 +30,13 @@ yarn-error.log*
 .env.production.local
 
 # all
-# components
-# lib
-# pages
-# posts
-# public
-# styles
-# package-lock.json
-# package.json
-# postcss.config.js
-# README.md
+components
+lib
+pages
+posts
+public
+styles
+package-lock.json
+package.json
+postcss.config.js
+README.md
