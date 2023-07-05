@@ -28,15 +28,3 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
-
-# all
-components
-lib
-pages
-posts
-public
-styles
-package-lock.json
-package.json
-postcss.config.js
-README.md
